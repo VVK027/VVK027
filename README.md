@@ -31,7 +31,7 @@ Lead Mobile Developer · Flutter Expert · Technical Project Lead
 
 - 🌐 **Portfolio:** [vvk027.github.io](https://vvk027.github.io/) — projects, experience & contact
 - 🔭 Currently working as **Lead Mobile Developer**
-- 📱 **8+ years** building production apps with **Flutter, Android & iOS**
+- 📱 **9+ years** building production apps with **Flutter, Android & iOS**
 - 💡 Scalable mobile architecture, clean code & team leadership
 - 🚀 Enterprise-grade apps with strong **performance** and **UI/UX**
 - 🔥 **Flutter**, Dart, Kotlin, Java, Firebase & REST APIs
