@@ -21,10 +21,12 @@ Senior Mobile Developer · Technical Project Lead · Lead Mobile Developer · Fl
   <a href="mailto:vickyvivek2727@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=VVK027&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile Views"
-    style="vertical-align: middle;"
   />
 </p>
 
